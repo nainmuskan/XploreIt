@@ -113,7 +113,7 @@ section{
 }
 
 .home{
-    background: url('bg2.jpg') no-repeat rgba(0,0,0,.5);
+    background: url('Images/bg2.jpg') no-repeat rgba(0,0,0,.5);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
